@@ -9,4 +9,4 @@ Sample Dashboard - Charts, Graphs and Maps - https://saylor.github.io/dashboard/
     <div style="display: block; clear: both;"></div>
 </div>
 
-<iframe src="https://public.tableau.com/shared/PGD2BJX39?:showVizHome=no&:embed=true"></iframe>
+<iframe src="https://public.tableau.com/shared/PGD2BJX39?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no" ></iframe>
