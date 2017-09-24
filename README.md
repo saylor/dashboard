@@ -10,3 +10,5 @@ Sample Dashboard - Charts, Graphs and Maps - https://saylor.github.io/dashboard/
 </div>
 
 <iframe src="https://public.tableau.com/views/DataViz-EnrollmentbyCountry/DataVisualization-EnrollmentByCountry?:showVizHome=no&:embed=true" width="95%" height="800" seamless frameborder="0" scrolling="no" ></iframe>
+
+<iframe src="https://public.tableau.com/views/OkCountySherrifsRace2017/OklahomaCountySherrifsRace2017?:showVizHome=no&:embed=true" width="95%" height="800" seamless frameborder="0" scrolling="no" ></iframe>
